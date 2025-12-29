@@ -74,6 +74,3 @@ Alur data mengalir dari luar ke dalam:
 - **Service**: Menjalankan business logic, memanggil Repository.
 - **Repository**: Berinteraksi langsung dengan Database.
 - **Models**: Defines struktur data.
-
----
-Created by Antigravity for User.
